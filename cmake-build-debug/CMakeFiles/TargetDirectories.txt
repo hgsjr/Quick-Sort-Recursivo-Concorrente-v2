@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Harley Junior/CLionProjects/trabalho2-comp_conc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Harley Junior/CLionProjects/trabalho2-comp_conc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Harley Junior/CLionProjects/trabalho2-comp_conc/cmake-build-debug/CMakeFiles/trabalho2_comp_conc.dir
